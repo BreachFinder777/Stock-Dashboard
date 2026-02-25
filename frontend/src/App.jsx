@@ -17,8 +17,8 @@ import {
    CONFIGURATION
    ════════════════════════════════════════════════════════ */
 
-const API = "stock-dashboard-production-a827.up.railway.app";
-const WS  = "stock-dashboard-production-a827.up.railway.app";
+const API = "https://stock-dashboard-production-a827.up.railway.app/";
+const WS  = "https://stock-dashboard-production-a827.up.railway.app/";
 
 const PERIODS = [
   { label: "1D",  value: "1d"  },
