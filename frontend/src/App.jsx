@@ -17,8 +17,8 @@ import {
    CONFIGURATION
    ════════════════════════════════════════════════════════ */
 
-const API = "http://127.0.0.1:8000";
-const WS  = "ws://127.0.0.1:8000";
+const API = "stock-dashboard-production-a827.up.railway.app";
+const WS  = "stock-dashboard-production-a827.up.railway.app";
 
 const PERIODS = [
   { label: "1D",  value: "1d"  },
